@@ -26,6 +26,7 @@ class Ci:
 
     def _print(self):
         print('%s  %s' % (self.ci['rhythmic'], self.ci['author']))
+        print('')
         for e in self.ci['paragraphs']:
             print(e)
 
