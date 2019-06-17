@@ -4,7 +4,7 @@ import json
 import os
 import random
 
-root_dir = os.path.join('C:\\Users\\liste', 'Documents', 'chinese-poetry')
+root_dir = os.path.join('C:\\Users\\liste', 'Documents', 'chinese_poem', 'chinese-poetry')
 
 ci_dir = os.path.join(root_dir, 'ci')
 
